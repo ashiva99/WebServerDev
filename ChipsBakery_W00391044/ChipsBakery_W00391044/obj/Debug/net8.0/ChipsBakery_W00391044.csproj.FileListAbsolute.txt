@@ -1,0 +1,14 @@
+C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\bin\Debug\net8.0\ChipsBakery_W00391044.exe
+C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\bin\Debug\net8.0\ChipsBakery_W00391044.deps.json
+C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\bin\Debug\net8.0\ChipsBakery_W00391044.runtimeconfig.json
+C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\bin\Debug\net8.0\ChipsBakery_W00391044.dll
+C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\bin\Debug\net8.0\ChipsBakery_W00391044.pdb
+C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\obj\Debug\net8.0\ChipsBakery_W00391044.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\obj\Debug\net8.0\ChipsBakery_W00391044.AssemblyInfoInputs.cache
+C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\obj\Debug\net8.0\ChipsBakery_W00391044.AssemblyInfo.cs
+C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\obj\Debug\net8.0\ChipsBakery_W00391044.csproj.CoreCompileInputs.cache
+C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\obj\Debug\net8.0\ChipsBakery_W00391044.dll
+C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\obj\Debug\net8.0\refint\ChipsBakery_W00391044.dll
+C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\obj\Debug\net8.0\ChipsBakery_W00391044.pdb
+C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\obj\Debug\net8.0\ChipsBakery_W00391044.genruntimeconfig.cache
+C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\obj\Debug\net8.0\ref\ChipsBakery_W00391044.dll
