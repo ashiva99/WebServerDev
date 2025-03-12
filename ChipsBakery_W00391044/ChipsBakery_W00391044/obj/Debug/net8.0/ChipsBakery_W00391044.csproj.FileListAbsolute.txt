@@ -12,3 +12,4 @@ C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\obj\De
 C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\obj\Debug\net8.0\ChipsBakery_W00391044.pdb
 C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\obj\Debug\net8.0\ChipsBakery_W00391044.genruntimeconfig.cache
 C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\obj\Debug\net8.0\ref\ChipsBakery_W00391044.dll
+C:\Users\Dell PC\source\repos\ChipsBakery_W00391044\ChipsBakery_W00391044\obj\Debug\net8.0\ChipsBakery_W00391044.sourcelink.json

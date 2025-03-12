@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChipsBakery_W00391044")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b780b56e95b3c5a14c68425e2662fe0d2f6503e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChipsBakery_W00391044")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChipsBakery_W00391044")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

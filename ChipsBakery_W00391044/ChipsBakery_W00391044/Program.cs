@@ -1,4 +1,5 @@
-﻿start();
+﻿
+start();
 
 static void start()
 {
