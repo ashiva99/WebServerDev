@@ -1,4 +1,5 @@
-﻿start();
+﻿//This assignment is about generating 20 random numbers in console between 1 and 100 
+start();
 
 static void start()
 {

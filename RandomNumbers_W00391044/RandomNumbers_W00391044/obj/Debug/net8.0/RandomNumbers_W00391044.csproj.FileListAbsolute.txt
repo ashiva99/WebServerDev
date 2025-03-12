@@ -12,3 +12,4 @@ C:\Users\Dell PC\source\repos\RandomNumbers_W00391044\RandomNumbers_W00391044\ob
 C:\Users\Dell PC\source\repos\RandomNumbers_W00391044\RandomNumbers_W00391044\obj\Debug\net8.0\RandomNumbers_W00391044.pdb
 C:\Users\Dell PC\source\repos\RandomNumbers_W00391044\RandomNumbers_W00391044\obj\Debug\net8.0\RandomNumbers_W00391044.genruntimeconfig.cache
 C:\Users\Dell PC\source\repos\RandomNumbers_W00391044\RandomNumbers_W00391044\obj\Debug\net8.0\ref\RandomNumbers_W00391044.dll
+C:\Users\Dell PC\source\repos\RandomNumbers_W00391044\RandomNumbers_W00391044\obj\Debug\net8.0\RandomNumbers_W00391044.sourcelink.json
