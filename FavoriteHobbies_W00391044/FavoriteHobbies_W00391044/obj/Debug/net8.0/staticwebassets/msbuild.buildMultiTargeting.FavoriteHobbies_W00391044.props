@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FavoriteHobbies_W00391044.props" />
+</Project>

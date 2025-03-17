@@ -1,0 +1,56 @@
+﻿@model List<Hobby>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Favorite Hobbies</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+<div class="row">
+    <div class="col-md-4 mb-2">
+        <img src="~/basketball.jpg"
+        alt="Basketball Image"
+        style="width: 100%;
+                    height: 200px;
+                    object-fit: cover;">
+    </div>
+    <div class="col-md-4 mb-2">
+        <img src="~/cooking.png"
+        alt="Cooking Image"
+        style="width: 100%;
+                    height: 200px;
+                    object-fit: cover;">
+    </div>
+    <div class="col-md-4 mb-2">
+        <img src="~/writing.png"
+        alt="Writing Image"
+        style="width: 100%;
+                    height: 200px;
+                    object-fit: cover;">
+
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-striped">
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Active</th>
+            </tr>
+            @foreach(Hobby hobby in @Model)
+            {
+                <tr>
+                    <td>@hobby.name</td>
+                    <td>@hobby.age</td>
+                    <td>@hobby.active</td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
