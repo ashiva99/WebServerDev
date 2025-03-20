@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell PC\\source\\repos\\DreamLists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08A971-CE6E-40D4-B81E-E82515821A80}|DreamLists\\DreamLists.csproj|c:\\users\\dell pc\\source\\repos\\dreamlists\\dreamlists\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA08A971-CE6E-40D4-B81E-E82515821A80}|DreamLists\\DreamLists.csproj|solutionrelative:dreamlists\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell PC\\source\\repos\\DreamLists\\DreamLists\\Migrations\\20250226201213_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DreamLists\\Migrations\\20250226201213_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08A971-CE6E-40D4-B81E-E82515821A80}|DreamLists\\DreamLists.csproj|c:\\users\\dell pc\\source\\repos\\dreamlists\\dreamlists\\controllers\\dreamlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08A971-CE6E-40D4-B81E-E82515821A80}|DreamLists\\DreamLists.csproj|solutionrelative:dreamlists\\controllers\\dreamlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08A971-CE6E-40D4-B81E-E82515821A80}|DreamLists\\DreamLists.csproj|c:\\users\\dell pc\\source\\repos\\dreamlists\\dreamlists\\models\\dreamlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA08A971-CE6E-40D4-B81E-E82515821A80}|DreamLists\\DreamLists.csproj|solutionrelative:dreamlists\\models\\dreamlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell PC\\source\\repos\\DreamLists\\DreamLists\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DreamLists\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell PC\\source\\repos\\DreamLists\\DreamLists\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DreamLists\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T20:20:39.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250226201213_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Dell PC\\source\\repos\\DreamLists\\DreamLists\\Migrations\\20250226201213_Initial.cs",
+              "RelativeDocumentMoniker": "DreamLists\\Migrations\\20250226201213_Initial.cs",
+              "ToolTip": "C:\\Users\\Dell PC\\source\\repos\\DreamLists\\DreamLists\\Migrations\\20250226201213_Initial.cs",
+              "RelativeToolTip": "DreamLists\\Migrations\\20250226201213_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:12:13.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DreamListsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell PC\\source\\repos\\DreamLists\\DreamLists\\Controllers\\DreamListsController.cs",
+              "RelativeDocumentMoniker": "DreamLists\\Controllers\\DreamListsController.cs",
+              "ToolTip": "C:\\Users\\Dell PC\\source\\repos\\DreamLists\\DreamLists\\Controllers\\DreamListsController.cs",
+              "RelativeToolTip": "DreamLists\\Controllers\\DreamListsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:09:53.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DreamList.cs",
+              "DocumentMoniker": "C:\\Users\\Dell PC\\source\\repos\\DreamLists\\DreamLists\\Models\\DreamList.cs",
+              "RelativeDocumentMoniker": "DreamLists\\Models\\DreamList.cs",
+              "ToolTip": "C:\\Users\\Dell PC\\source\\repos\\DreamLists\\DreamLists\\Models\\DreamList.cs",
+              "RelativeToolTip": "DreamLists\\Models\\DreamList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:36:15.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
