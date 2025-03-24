@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Favorite Animals</h1>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 d-flex justify-content-center">
+            <img src="~/images/catanddog.jpg" class="w-50" title="CatandDogAnimal" />
+
+
+        </div>
+    </div>
+
+        <div class="col-md-12">
+        <div class="form-control text-center" style="width: 50%; margin: 0 auto;">
+            <label>Animal Name: </label>
+            <input id="animalName" type="text" />
+            <button onclick="addAnimal()" class="btn btn-success btn-sm">Add</button>
+        </div>
+        <div class="d-flex">
+            <ul class="h3 mx-auto justify-content-center" id="ulList">
+            </ul>
+        </div>
+        </div>
+    
+</div>
+
+
+
+<script>
+    let ulList = document.querySelector("#ulList");
+    populate();
+
+    function populate(){
+        const data = {};
+
+        fetch('/Animal/PopulateAnimals?type=json',{
+            method:'GET'
+        }).then((response)=>response.json()).then((data)=>{
+            for(let i=0;i<data.length;i++){
+                addToList(data[i]);
+            }
+        }).catch((error)=>{
+            console.error('Error', error);
+        });
+    }
+
+    function addToList(item){
+        if(item.length==0) return;
+        let li = `<li>${item}</li>`;
+        ulList.innerHTML+=li;
+    }
+
+    function addAnimal(){
+        let txtItem = document.querySelector("#animalName").value;
+        fetch('/Animal/AddAnimal?animal=' + txtItem,{
+            method: 'POST'
+        }).catch((error)=>{
+            console.error('Error',error);
+        })
+        addToList(txtItem);
+    }
+</script>
+

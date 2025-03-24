@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FavoriteAnimal_W00391044.props" />
+</Project>
